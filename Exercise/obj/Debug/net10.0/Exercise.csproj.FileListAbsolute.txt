@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Exercise\bin\Debug\net10.0\Exercise.exe
+C:\Users\Admin\Documents\Exercise\bin\Debug\net10.0\Exercise.deps.json
+C:\Users\Admin\Documents\Exercise\bin\Debug\net10.0\Exercise.runtimeconfig.json
+C:\Users\Admin\Documents\Exercise\bin\Debug\net10.0\Exercise.dll
+C:\Users\Admin\Documents\Exercise\bin\Debug\net10.0\Exercise.pdb
+C:\Users\Admin\Documents\Exercise\obj\Debug\net10.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Exercise\obj\Debug\net10.0\Exercise.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Exercise\obj\Debug\net10.0\Exercise.AssemblyInfo.cs
+C:\Users\Admin\Documents\Exercise\obj\Debug\net10.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Exercise\obj\Debug\net10.0\Exercise.dll
+C:\Users\Admin\Documents\Exercise\obj\Debug\net10.0\refint\Exercise.dll
+C:\Users\Admin\Documents\Exercise\obj\Debug\net10.0\Exercise.pdb
+C:\Users\Admin\Documents\Exercise\obj\Debug\net10.0\Exercise.genruntimeconfig.cache
+C:\Users\Admin\Documents\Exercise\obj\Debug\net10.0\ref\Exercise.dll
