@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BusinessObjects/BusinessObjects.csproj" />
+  <Project Path="DataAccessObjects/DataAccessObjects.csproj" />
+  <Project Path="Repositories/Repositories.csproj" />
+  <Project Path="Services/Services.csproj" />
+  <Project Path="WPFApp/WPFApp.csproj" Id="ad4fd7c0-c171-4f9b-95da-a1877e1f1146" />
+</Solution>
